@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "What's My Name?",
+  "base_artist": "Rihanna",
+  "createdAt": "2026-01-04T14:57:38.515933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What's My Name",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/01_What's_My_Name_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What's My Name",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/02_What's_My_Name_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What's My Name",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/03_What's_My_Name_DMX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What's My Name",
+      "artist": "Snoop Dogg",
+      "has_synced": false,
+      "path": "select/04_What's_My_Name_Snoop_Dogg.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "3 Sheets to the Wind (What's My Name)",
+      "artist": "Kid Rock",
+      "has_synced": false,
+      "path": "select/05_3_Sheets_to_the_Wind_(What's_My_Name)_Kid_Rock.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who Am I? (What's My Name?)",
+      "artist": "Hot Club De Paris",
+      "has_synced": false,
+      "path": "select/06_Who_Am_I__(What's_My_Name_)_Hot_Club_De_Paris.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What's My Name",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/07_What's_My_Name_Prince.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What's My Name?",
+      "artist": "Rihanna feat. Drake",
+      "has_synced": true,
+      "path": "select/08_What's_My_Name_Rihanna_feat._Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What's My Name?",
+      "artist": "Drake feat. Rihanna",
+      "has_synced": true,
+      "path": "select/09_What's_My_Name_Drake_feat._Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What's My Name (feat. Drake)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/10_What's_My_Name_(feat._Drake)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What's My Name?",
+      "artist": "Karmin",
+      "has_synced": true,
+      "path": "select/11_What's_My_Name_Karmin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What's My Name? (feat. Drake)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/12_What's_My_Name__(feat._Drake)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who Am I (What's My Name?)",
+      "artist": "Snoop Doggy Dogg",
+      "has_synced": true,
+      "path": "select/13_Who_Am_I_(What's_My_Name_)_Snoop_Doggy_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who Am I (What's My Name)",
+      "artist": "Snoop Doggy Dogg",
+      "has_synced": true,
+      "path": "select/14_Who_Am_I_(What's_My_Name)_Snoop_Doggy_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What’s My Name",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/15_What’s_My_Name_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What's My Name",
+      "artist": "Rihanna and Drake",
+      "has_synced": false,
+      "path": "select/16_What's_My_Name_Rihanna_and_Drake.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What's My Name (Remastered)",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/17_What's_My_Name_(Remastered)_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What's My Name",
+      "artist": "Rihanna (ft. Drake)",
+      "has_synced": true,
+      "path": "select/18_What's_My_Name_Rihanna_(ft._Drake).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What's My Name?",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_What's_My_Name_Rihanna.txt"
+    }
+  ]
+}
