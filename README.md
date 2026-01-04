@@ -1,0 +1,84 @@
+# Rihanna – What's My Name?
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.46] Ooh na na, what's my name
+[00:02.15] Ooh na na, what's my name
+[00:04.03] Ooh na na, what's my name
+[00:06.74] What's my name, what's my name
+[00:21.74] 
+[00:09.60] I heard you good with them soft lips
+[00:13.28] Yeah you know word of mouth
+[00:15.14] The square root of 69 is ate (8) something (right?)
+[00:16.99] Cuz I've been tryna work it out
+[00:20.63] Good weed, white wine
+[00:22.48] I come alive in the night time
+[00:25.11] Okay, away we go
+[00:27.06] Only thing we have on is the radio
+[00:30.65] Ooooh, let it play, say you gotta leave
+[00:32.46] But I know you wanna stay
+[00:34.23] You just waiting on the traffic jam to finish girl
+[00:36.16] The things we could do in twenty minutes girl
+[00:38.84] Say my name, say my name
+[00:40.62] Wear it out, its getting hot, crack a window, air it out
+[00:44.34] I can get you through a mighty long day
+[00:46.20] Soon as I u go the text that i write is gon say...
+[01:11.20] 
+[00:48.00] Ooh na na, what's my name
+[00:50.71] Ooh na na, what's my name
+[00:52.62] Ooh na na, what's my name
+[00:55.33] What's my name, what's my name
+[01:10.33] 
+[00:57.19] Baby you got me, and aint nowhere that I'd be
+[01:00.88] Than with your arms around me
+[01:05.47] Back and forth you rock me
+[01:07.25] So I surrender, to every word you whisper
+[01:11.30] Every door you enter, I will let you in
+[01:30.80] 
+[01:16.83] Hey boy I really wanna see if you can go downtown with a girl like me
+[01:23.24] Hey boy, I really wanna be with you
+[01:24.16] Cause you just my type
+[01:25.99] Ooh na na na na
+[01:26.88] I need a boy to take it over
+[01:29.60] Looking for a guy to put in work, uh
+[01:31.49] Oooooh, oooooh
+[01:38.49] 
+[01:36.06] Hey boy I really wanna see if you can go downtown with a girl like me
+[01:40.64] Hey boy, I really wanna be with you
+[01:43.39] Cause you just my type
+[01:45.19] Ooh na na na na
+[01:46.13] I need a boy to take it over
+[01:48.80] Looking for a guy to put in work, uh
+[01:50.66] Oooooh, oooooh
+[01:57.66] 
+[01:56.19] You're so amazing, you took the time to figure me out
+[02:00.67] Thats why you take me, way past the point of turning me on
+[02:05.29] You about to break me, I swear you got me losing my mind
+[02:33.29] 
+[02:15.04] Ooh na na, what's my name
+[02:16.80] Ooh na na, what's my name
+[02:19.51] Ooh na na, what's my name
+[02:22.39] Whats my name, whats my name
+[02:36.39] 
+[02:24.11] Hey boy I really wanna see if you can go downtown with a girl like me
+[02:29.62] Hey boy, I really wanna be with you
+[02:31.30] Cause you just my type
+[02:32.23] Ooh na na na na
+[02:34.05] I need a boy to take it over
+[02:35.91] Looking for a guy to put in work, uh
+[02:38.63] Oooooh, oooooh
+[02:45.63] 
+[02:43.22] Hey boy I really wanna see if you can go downtown with a girl like me
+[02:47.85] Hey boy, I really wanna be with you
+[02:50.52] Cause you just my type
+[02:51.46] Ooh na na na na
+[02:53.30] I need a boy to take it over
+[02:55.19] Looking for a guy to put in work, uh
+[02:57.95] Oooooh, oooooh
+[03:04.95] 
+[03:02.48] Ooh na na, what's my name
+[03:05.29] Ooh na na, what's my name
+[03:07.05] Ooh na na, what's my name
+[03:09.84] Whats my name, whats my name
+```
